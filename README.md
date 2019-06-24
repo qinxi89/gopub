@@ -23,7 +23,7 @@
 
 ## 下载地址
 
-- [https://github.com/lisijie/gopub/releases](https://github.com/lisijie/gopub/releases)
+- [https://github.com/qinxi89/gopub/releases](https://github.com/lisijie/gopub/releases)
 
 ## 安装
 
